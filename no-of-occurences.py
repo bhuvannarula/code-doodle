@@ -1,3 +1,10 @@
+'''
+Code to find no. of occurences of a substring in a string.
+    Eg.   "Hello World Hello Hello"
+          "Hello"
+          No. of Occurences = 3
+'''
+
 y=input("Enter the long string:")
 x=input("Enter string to be found:")
 a=0
