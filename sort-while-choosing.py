@@ -6,6 +6,7 @@ x=eval("["+input("Enter with comma: ")+"]")         #to accept more than 2 digit
 y=eval("["+input("Enter with comma: ")+"]")
 x.sort()
 y.sort()
+y.append(float('inf'))
 for i in x:
     s=0
     for j in y:
@@ -13,4 +14,4 @@ for i in x:
             y.insert(s,i)                           #editing the original list
             break
         s+=1
-print(y)
+print(y[0:(len(y)-1)])
