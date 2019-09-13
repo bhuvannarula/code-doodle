@@ -1,3 +1,7 @@
+'''
+This code sorts the data while choosing (aim).
+'''
+
 x=eval("["+input("Enter with comma: ")+"]")         #to accept more than 2 digit no.
 y=eval("["+input("Enter with comma: ")+"]")
 x.sort()
