@@ -1,10 +1,10 @@
 '''
 Code to print pattern according to numbers given.
 eg.
-  input ->   4,5,6
+  input ->   3,5,6
   output ->      *
                * *
-             * * *
+               * *
              * * *
              * * *
              * * *
