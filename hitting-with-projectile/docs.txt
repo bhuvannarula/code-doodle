@@ -1,0 +1,5 @@
+the way it works is by varying the angle till it meets the required precision.
+
+this makes it possible to reduce time in case large objects need to be hit.
+
+the more will be the precison, the more closely will projectile pass through the hit point.
