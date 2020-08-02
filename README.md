@@ -1,4 +1,5 @@
 # code-doodle
 
-I try to upload my projects here.
-Have a nice day!
+These are my projects.
+
+Each project has a doc.txt which contains the documentation of program.
