@@ -2,4 +2,4 @@
 
 These are my projects.
 
-Each project has a doc.txt which contains the documentation of program.
+Each project has a docs.txt which contains the documentation of program.
